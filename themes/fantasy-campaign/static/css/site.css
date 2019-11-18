@@ -8,3 +8,12 @@ h1 {
     margin: 0px;
     padding: 5px;
 }
+
+.nav a {
+    color: lightgray
+}
+
+.nav a:visited {
+    color: lightblue;
+    text-decoration: none;
+}
